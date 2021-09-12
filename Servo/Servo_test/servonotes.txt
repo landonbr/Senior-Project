@@ -1,0 +1,7 @@
+SG90 consumes 10mA when idle - 100-250mA when rotating
+
+360 rotation: continuous rotation servos can not control the 
+exact position of the output shaft, only the speed and direction.
+A 1ms pulse will set the speed of the servo motor to full speed in
+one direction and a 2ms pulse to full speed in the other direction.
+A value near 1.5ms sets the motor in neutral position.
