@@ -31,8 +31,3 @@ void loop() {
   delay(2000);
 }
 
-//void loop() {
-  //myservo.write(0);
-  //myservo.write(start);
-  //delay(10000);
-//}
